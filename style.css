@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#align_right {
+    text-align: right;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container_acvanced {
+    text-align: left;
+    margin-top: 100px;
+}
+
+.search-bar {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px;
+    width: 400px;
+}
+
+.search-button {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.search-button-advanced {
+    background-color: blue;
+    color: white;
+}
+
+form {
+    margin: 0 auto;
+}
